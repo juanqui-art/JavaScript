@@ -2,7 +2,7 @@ function createCircle(radius) {
     return {
         radius,
         draw(){
-            console.log('draw' + radius)
+            console.log('draw')
         }
     }
 }
